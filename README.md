@@ -1,5 +1,6 @@
 # hola-mundo
 Este es el primer ejemplo de GitHub 
+<<<<<<< HEAD
                    _
                   /`\
            _n   /` , `\
@@ -22,3 +23,5 @@ Este es el primer ejemplo de GitHub
   " ""(`    )|(      )|======|  (      )
   jgs  '-Y-`"""'- Y-'"/      \"""`--Y-`""
   ^^^^^^^^^^^^^^^^^^^^        ^^^^^^^^^^^
+=======
+>>>>>>> parent of 4b4c876... Corazon
